@@ -1,2 +1,2 @@
 # querySim
-Query Similarity based Ranking for Relevance identificatino
+Query Similarity based Ranking for Relevance identification.
